@@ -1,0 +1,9 @@
+phidata  # Library for data analysis
+python-dotenv  # Library to load environment variables from a .env file
+yfinance  # Library to fetch financial data from Yahoo Finance
+packaging  # Library for packaging Python projects
+duckduckgo-search  # Library to perform searches using DuckDuckGo
+fastapi  # Web framework for building APIs with Python
+uvicorn  # ASGI server for serving FastAPI applications
+groq  # Library for interacting with Groq models
+openai  # Library for interacting with OpenAI models
