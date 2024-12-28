@@ -22,7 +22,7 @@ openai
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-ai-analyst.git
+   https://github.com/SURESHBEEKHANI/Financial-Analyst-AI-Multi-Agent-System.git
    cd financial-ai-analyst
    ```
 
