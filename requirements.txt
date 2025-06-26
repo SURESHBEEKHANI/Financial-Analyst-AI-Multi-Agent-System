@@ -7,3 +7,7 @@ fastapi  # Web framework for building APIs with Python
 uvicorn  # ASGI server for serving FastAPI applications
 groq  # Library for interacting with Groq models
 openai  # Library for interacting with OpenAI models
+googlesearch-python
+fastapi
+uvicorn
+streamlit  # Library for building interactive web apps
